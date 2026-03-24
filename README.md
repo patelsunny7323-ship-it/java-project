@@ -452,7 +452,7 @@ java -ea -cp bin edu.ccrm.CCRMApp
 - Command-line interface
 - Read/Write file system permissions
 
-## Quick Setup
+# Quick Setup
 
 1. Install JDK 17 or higher
 2. Open PowerShell in the project directory
